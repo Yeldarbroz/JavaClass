@@ -1,6 +1,6 @@
 package main;
 
-import java.util.*;
+import java.util.*;//This is for the AIDE
 import javaLessons.LessonsMain;
 
 public class Main {
